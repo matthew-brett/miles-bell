@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miles-Bell family history</title>
-    <link>https://matthew-brett.github.io/miles-bell/</link>
+    <link>https://matthew-brett.github.io/</link>
     <description>Miles-Bell family history</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 May 2020 17:07:20 +0100</lastBuildDate>
     
-    <atom:link href="https://matthew-brett.github.io/miles-bell/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://matthew-brett.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Miles_bell</title>
-      <link>https://matthew-brett.github.io/miles-bell/miles_bell/</link>
+      <title>Miles - Bell</title>
+      <link>https://matthew-brett.github.io/pages/miles-bell/</link>
       <pubDate>Thu, 28 May 2020 17:07:20 +0100</pubDate>
       
-      <guid>https://matthew-brett.github.io/miles-bell/miles_bell/</guid>
+      <guid>https://matthew-brett.github.io/pages/miles-bell/</guid>
       <description>&lt;p&gt;About the family of Elsie Miles and Owen Edgar Miles.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://google.com&#34;&gt;A link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://matthew-brett.github.io/images/miles_ej_birth_1872.pdf&#34;&gt;Edgar John Miles birth certificate&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;More text.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Miles_bell</title>
-      <link>https://matthew-brett.github.io/miles-bell/pages/miles-bell/</link>
+      <link>https://matthew-brett.github.io/miles_bell/</link>
       <pubDate>Thu, 28 May 2020 17:07:20 +0100</pubDate>
       
-      <guid>https://matthew-brett.github.io/miles-bell/pages/miles-bell/</guid>
+      <guid>https://matthew-brett.github.io/miles_bell/</guid>
       <description>&lt;p&gt;About the family of Elsie Miles and Owen Edgar Miles.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://google.com&#34;&gt;A link&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://matthew-brett.github.io/miles-bell/images/miles_ej_birth_1872.pdf&#34;&gt;Edgar John Miles birth certificate&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;More text.&lt;/p&gt;
 </description>
     </item>
