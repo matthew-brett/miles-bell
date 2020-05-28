@@ -1,0 +1,4 @@
+baseURL = "https://matthew-brett.github.io/miles-bell"
+languageCode = "en-us"
+title = "Miles-Bell family history"
+theme = "anubis"
