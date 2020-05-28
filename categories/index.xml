@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Miles-Bell family history</title>
-    <link>https://matthew-brett.github.io/categories/</link>
+    <link>https://matthew-brett.github.io/miles-bell/categories/</link>
     <description>Miles-Bell family history (Categories)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="https://matthew-brett.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://matthew-brett.github.io/miles-bell/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
