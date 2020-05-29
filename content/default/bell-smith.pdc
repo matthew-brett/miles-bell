@@ -18,7 +18,8 @@ is: "Jun 1903, Bell Frederick, Kensington 1a 327"
 The family emigrated from England to New Zealand sometime between 1904 and
 1909.
 
-Text from <https://www.myheritage.com/names/elsie_miles> has:
+The [Ancestry.com page on Elsie Miles]({{< relref
+"../sources/mh_elsie_miles.pdc" >}}) has:
 
 > Frederick was born on November 17 1875, in Alnwick, Northumberland, United
 > Kingdom.
@@ -38,7 +39,7 @@ The full list seems to be:
 * Sydney Marshall Bell (1904)
 * Robert Alexander Bell (1905)
 * Phillip Cecil "Bill" Bell (1909)
-* Elsie Embleton Bell (1910)
+* [Elsie Embleton Bell]({{< relref "elsie-embleton-bell.pdc" >}}) (1910)
 * Kenneth Allan Bell (1912)
 
 Also:
