@@ -1,4 +1,5 @@
 languageCode = "en-us"
 title = "Miles-Bell family history"
-theme = "anubis"
+newContentEditor = "ggvr"
+theme = "nofancy"
 canonifyurls = "true"

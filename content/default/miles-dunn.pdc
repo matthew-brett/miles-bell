@@ -2,12 +2,19 @@
 title: "Miles - Dunn"
 date: 2020-05-28T17:07:20+01:00
 draft: false
+entity:
+  type: family
+  year: 1905
 ---
 
 About the family of Edgar John Miles and Catherine Harriet Dunn.
 
 * [Edgar John Miles]({{< relref "edgar-john-miles.pdc" >}})
 * [Catherine Harriet Dunn]({{< relref "catherine-harriet-dunn.pdc" >}})
+
+NZ marriage record:
+
+> 1905/4735 Catherine Harriett Dunn Edgar John Miles
 
 Both parents went before a jury as plaintiffs for compensation for injuries
 before NZ supreme court.
