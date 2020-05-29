@@ -3,32 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://matthew-brett.github.io/miles-bell/pages/bell-smith/</loc>
-    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthew-brett.github.io/miles-bell/pages/edgar-owen-miles/</loc>
-    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthew-brett.github.io/miles-bell/pages/elsie-embleton-bell/</loc>
-    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://matthew-brett.github.io/miles-bell/pages/miles-bell/</loc>
-    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://matthew-brett.github.io/miles-bell/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matthew-brett.github.io/miles-bell/pages/</loc>
+    <loc>https://matthew-brett.github.io/miles-bell/default/bell-smith/</loc>
+    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthew-brett.github.io/miles-bell/default/catherine-harriet-dunn/</loc>
+    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthew-brett.github.io/miles-bell/default/</loc>
+    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthew-brett.github.io/miles-bell/default/dunn-copley/</loc>
+    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthew-brett.github.io/miles-bell/default/edgar-john-miles/</loc>
+    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthew-brett.github.io/miles-bell/default/edgar-owen-miles/</loc>
+    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthew-brett.github.io/miles-bell/default/elsie-embleton-bell/</loc>
+    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthew-brett.github.io/miles-bell/default/miles-bell/</loc>
+    <lastmod>2020-05-28T17:07:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matthew-brett.github.io/miles-bell/default/miles-dunn/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
   </url>
   

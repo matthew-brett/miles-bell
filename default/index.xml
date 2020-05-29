@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Miles-Bell family history</title>
-    <link>https://matthew-brett.github.io/miles-bell/</link>
-    <description>Miles-Bell family history</description>
+    <title>Defaults on Miles-Bell family history</title>
+    <link>https://matthew-brett.github.io/miles-bell/default/</link>
+    <description>Miles-Bell family history (Defaults)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 May 2020 17:07:20 +0100</lastBuildDate>
     
-    <atom:link href="https://matthew-brett.github.io/miles-bell/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://matthew-brett.github.io/miles-bell/default/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
